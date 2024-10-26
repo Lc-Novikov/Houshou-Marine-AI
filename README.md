@@ -12,7 +12,6 @@
 ### OLA
 
 
-<
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
@@ -28,9 +27,7 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
-
-Last Edited on: 17/04/2021
+Credits: [Yosushi naoko (xOne) ](https://github.com/Lc-Novikov)
 
 
 
