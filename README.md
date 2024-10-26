@@ -63,8 +63,8 @@ npm start
 
 
 -----
-Credits: [Yosushi naoko (xOne) ] (https://github.com/Lc-Novikov)
-
+Credit: [Yosushi naoko (xOne) ](https://github.com/Lc-Novikov)
+ 
 
 
 
