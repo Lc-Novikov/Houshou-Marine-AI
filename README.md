@@ -9,10 +9,8 @@
     </p>
     <p> 
 
-### OLA
 
-
-###  **[Instalación]**
+###  **[⬇️Instalación⬇️]**
 
 ## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
 
@@ -50,6 +48,7 @@ npm start
 
 > After that, a **QR** code will appear, you scan it with the Whatsapp web and that's it.
 
+ -----
 
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
