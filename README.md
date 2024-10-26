@@ -12,7 +12,7 @@
 
 ###  **[⬇️Instalación⬇️]**
 
-## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
+## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Installation in [termux](https://f-droid.org/repo/com.termux_118.apk)
 
 ```bash
 cd && termux-setup-storage
